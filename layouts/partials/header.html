@@ -1,3 +1,5 @@
+<<!-- header.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,11 +13,62 @@
         <nav>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/about-us/">About Us</a></li>
-                <li><a href="/services/">Services</a></li>
-                <li><a href="/industries/">Industries</a></li>
-                <li><a href="/resources/">Resources</a></li>
+                <li>
+                    <a href="/about-us/">About Us</a>
+                    <!-- If there are submenus, add them here -->
+                </li>
+                <li>
+                    <a href="/services/">Services</a>
+                    <ul>
+                        <li><a href="/services/mergers-acquisitions/">Mergers & Acquisitions</a>
+                            <ul>
+                                <li><a href="/services/mergers-acquisitions/buy-side-advisory/">Buy-Side Advisory</a></li>
+                                <li><a href="/services/mergers-acquisitions/sell-side-advisory/">Sell-Side Advisory</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/services/private-equity/">Private Equity</a>
+                            <ul>
+                                <li><a href="/services/private-equity/restructuring/">Restructuring</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/services/fund-capital-raising/">Fund Capital Raising</a>
+                            <ul>
+                                <li><a href="/services/fund-capital-raising/hedge-funds/">Hedge Funds</a></li>
+                                <li><a href="/services/fund-capital-raising/venture-capital-funds/">Venture Capital Funds</a></li>
+                                <li><a href="/services/fund-capital-raising/reits/">REITs</a></li>
+                                <li><a href="/services/fund-capital-raising/private-equity-funds/">Private Equity Funds</a></li>
+                                <li><a href="/services/fund-capital-raising/real-estate-development-acquisitions/">Real Estate Development & Acquisitions</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/services/venture-capital/">Venture Capital</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/industries/">Industries</a>
+                    <ul>
+                        <li><a href="/industries/finance-investment/">Finance & Investment</a></li>
+                        <li><a href="/industries/technology/">Technology</a></li>
+                        <li><a href="/industries/healthcare/">Healthcare</a></li>
+                        <li><a href="/industries/real-estate/">Real Estate</a></li>
+                        <li><a href="/industries/infrastructure/">Infrastructure</a></li>
+                        <li><a href="/industries/manufacturing/">Manufacturing</a></li>
+                        <li><a href="/industries/energy/">Energy</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/resources/">Resources</a>
+                    <ul>
+                        <li><a href="/resources/blog/">Blog</a></li>
+                        <li><a href="/resources/whitepapers-ebooks/">Whitepapers & E-Books</a></li>
+                        <li><a href="/resources/webinars-events/">Webinars & Events</a></li>
+                        <li><a href="/resources/faqs/">FAQs</a></li>
+                    </ul>
+                </li>
                 <li><a href="/contact-us/">Contact Us</a></li>
             </ul>
+            <!-- Dark Mode Toggle Button -->
+            <button class="dark-mode-toggle" aria-label="Toggle Dark Mode">
+                <div class="toggle-circle"></div>
+            </button>
         </nav>
     </header>
