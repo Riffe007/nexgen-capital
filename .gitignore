@@ -1,0 +1,46 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo's cache
+/.hugo_cache/
+/hugo_stats.json
+
+# Backup files
+*_backup.md
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Editor/IDE specific files
+*.swp
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js dependencies (if using Node for asset management)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Optional: Exclude themes except for your chosen theme
+/themes/*
+!/themes/corporate/ # Replace 'corporate' with your chosen theme directory
+
+# Optional: Exclude specific theme directories if using Git submodules
+# /themes/*
+# !/themes/corporate/
