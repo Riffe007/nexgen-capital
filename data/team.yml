@@ -1,0 +1,11 @@
+- name: "John Doe"
+  position: "CEO & Founder"
+  qualifications: "Series 63, 65 Licensed; Pursuing Series 7 and 79"
+  bio: "John has over 20 years of experience in financial advisory..."
+  image: "team/member1.jpg"
+
+- name: "Jane Smith"
+  position: "CFO"
+  qualifications: "CPA, CFA"
+  bio: "Jane specializes in capital structuring and investment management..."
+  image: "team/member2.jpg"
