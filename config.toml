@@ -1,0 +1,43 @@
+baseURL = "https://www.nexgencapital.com/"
+languageCode = "en-us"
+title = "NexGen Capital Advisors"
+theme = "corporate" # Replace with your chosen theme
+
+[params]
+  author = "Your Name"
+  description = "Empowering Your Financial Growth with Expert Capital Raising and Advisory Services."
+  keywords = "Capital Raising, Financial Advisory, M&A, Private Equity, Venture Capital, Real Estate, Infrastructure"
+  # Add other custom parameters as needed
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about-us/"
+  weight = 2
+
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 3
+
+[[menu.main]]
+  name = "Industries"
+  url = "/industries/"
+  weight = 4
+
+[[menu.main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact Us"
+  url = "/contact-us/"
+  weight = 6
+
+# Add more menu items as needed
+
