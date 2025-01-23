@@ -7,4 +7,4 @@ draft: false
 
 ## Energy
 
-[Detailed information about Energy industry services.]
+Our financial solutions help energy companies navigate the evolving landscape and capitalize on new opportunities.

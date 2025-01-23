@@ -7,4 +7,4 @@ draft: false
 
 ## Venture Capital
 
-[Detailed information about Venture Capital services.]
+We invest in promising startups, providing not only capital but also strategic guidance to foster growth and innovation.

@@ -7,4 +7,4 @@ draft: false
 
 ## Hedge Funds
 
-[Detailed information about Hedge Funds services.]
+Our hedge fund capital raising services connect you with investors seeking diverse investment opportunities.

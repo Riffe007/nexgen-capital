@@ -16,4 +16,8 @@ draft: false
 3. **Do you offer customized financial solutions?**
    - Yes, we tailor our services to meet the unique needs of each client.
 
-[Add more FAQs as needed.]
+4. **What industries do you specialize in?**
+   - We specialize in finance & investment, technology, healthcare, real estate, infrastructure, manufacturing, and energy sectors.
+
+5. **How do I get started with your services?**
+   - Simply visit our [Contact Us](/contact-us/) page and fill out the form to schedule a consultation.

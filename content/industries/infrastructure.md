@@ -7,4 +7,4 @@ draft: false
 
 ## Infrastructure
 
-[Detailed information about Infrastructure industry services.]
+Our expertise supports infrastructure projects with comprehensive financial advisory services.

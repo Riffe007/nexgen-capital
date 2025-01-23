@@ -7,4 +7,4 @@ draft: false
 
 ## Healthcare
 
-[Detailed information about Healthcare industry services.]
+Our services support healthcare organizations in strategic financial planning and capital raising.

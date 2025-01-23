@@ -7,16 +7,16 @@ draft: false
 
 ## Blog
 
-[Link to Blog landing page.]
+Stay updated with our latest articles and industry insights.
 
 ## Whitepapers & E-Books
 
-[Link to Whitepapers & E-Books landing page.]
+Download our comprehensive whitepapers and e-books to gain deeper knowledge.
 
 ## Webinars & Events
 
-[Link to Webinars & Events landing page.]
+Join our upcoming webinars and events to stay informed and connected.
 
 ## FAQs
 
-[Link to FAQs page.]
+Find answers to common questions about our services.

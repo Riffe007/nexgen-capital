@@ -7,4 +7,4 @@ draft: false
 
 ## REITs
 
-[Detailed information about REITs services.]
+Our capital raising services for REITs help you secure funding for real estate investments and developments.

@@ -7,4 +7,4 @@ draft: false
 
 ## Manufacturing
 
-[Detailed information about Manufacturing industry services.]
+We address the financial challenges faced by the manufacturing sector with tailored advisory services.

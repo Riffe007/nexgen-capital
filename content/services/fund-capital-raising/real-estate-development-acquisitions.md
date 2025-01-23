@@ -7,4 +7,4 @@ draft: false
 
 ## Real Estate Development & Acquisitions
 
-[Detailed information about Real Estate Development & Acquisitions services.]
+Our services help secure capital for real estate development projects and strategic acquisitions.

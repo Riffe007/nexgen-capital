@@ -7,8 +7,8 @@ draft: false
 
 ## Whitepapers
 
-[List of available whitepapers.]
+Explore our in-depth whitepapers on various financial strategies and market trends.
 
 ## E-Books
 
-[List of available e-books.]
+Download our e-books to gain comprehensive knowledge on specific financial topics.

@@ -7,4 +7,4 @@ draft: false
 
 ## Buy-Side Advisory
 
-[Detailed information about Buy-Side Advisory services.]
+Our buy-side advisory services assist businesses in identifying and acquiring strategic assets that align with their growth objectives.

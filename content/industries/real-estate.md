@@ -7,4 +7,4 @@ draft: false
 
 ## Real Estate
 
-[Detailed information about Real Estate industry services.]
+We assist real estate businesses in securing funding and managing their investment portfolios.

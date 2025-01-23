@@ -7,4 +7,4 @@ draft: false
 
 ## Private Equity Funds
 
-[Detailed information about Private Equity Funds services.]
+We support private equity funds in raising capital from institutional and accredited investors.

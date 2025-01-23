@@ -7,8 +7,8 @@ draft: false
 
 ## Upcoming Webinars
 
-[List of upcoming webinars.]
+Don't miss our upcoming webinars featuring industry experts.
 
 ## Past Events
 
-[List of past events.]
+Catch up on our past events and watch recordings of our webinars.

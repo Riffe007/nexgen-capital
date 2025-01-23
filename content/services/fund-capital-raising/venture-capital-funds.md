@@ -7,4 +7,4 @@ draft: false
 
 ## Venture Capital Funds
 
-[Detailed information about Venture Capital Funds services.]
+We facilitate capital raising for venture capital funds, ensuring you have the resources to invest in high-potential startups.
